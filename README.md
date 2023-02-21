@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+```js
+const luciokleber = {
+  code: [Javascript, HTML, SCSS],
+  frameworks: [Vue, Express, Jest],
+  libraries: [React, Redux, JQuery],
+  database: "Postgres",
+  dataframe: [Panda, NumPy],
+  tools: git,
+  hobbies: ["Football", "Bike"]
+}
+``` -->
