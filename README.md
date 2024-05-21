@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Profissional com **ampla experiência em desenvolvimento de projetos digitais** utilizando as melhores práticas para garantir um código limpo e de fácil manutenção. Habilidade em implementar HTML semântico, CSS reutilizável e responsivo, além de compreender e aplicar de forma eficiente JavaScript e seus frameworks para criar **soluções escaláveis**.
+Profissional com **ampla experiência em desenvolvimento de projetos digitais**. Habilidade em implementar HTML semântico, CSS reutilizável e responsivo, além de compreender e aplicar de forma eficiente JavaScript e seus frameworks para criar **soluções escaláveis**.
 
 ```js
 const luciokleber = {
