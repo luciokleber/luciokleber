@@ -4,7 +4,7 @@ Profissional com **ampla experiência em desenvolvimento de projetos digitais**.
 
 ```js
 const luciokleber = {
-  profile: "Desenvolvedor Front-End Sr.",
+  profile: "Eu sou... Amado por Jesus Cristo e Desenvolvedor Front-End Sr.",
   code: [Javascript, HTML, SCSS],
   frameworks: [Vue, Express, Jest],
   libraries: [React, Redux, JQuery],
